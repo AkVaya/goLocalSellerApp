@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">goLocalSellerApp</string>
+
+    <string-array name="city_names">
+        <item>Indore</item>
+        <item>Bhopal</item>
+        <item>Gwalior</item>
+    </string-array>
+</resources>

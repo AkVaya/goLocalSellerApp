@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040386249518",
+    "firebase_url": "https://golocalsellerapp.firebaseio.com",
+    "project_id": "golocalsellerapp",
+    "storage_bucket": "golocalsellerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040386249518:android:9aaf3c323111d3c9f520bf",
+        "android_client_info": {
+          "package_name": "com.example.android.golocalsellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040386249518-qhig361ui6p0ftv5vk65td8a1ft9l8ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy6phLACMlYAaJdZwsauA7poNNe_F8Os4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040386249518-qhig361ui6p0ftv5vk65td8a1ft9l8ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
